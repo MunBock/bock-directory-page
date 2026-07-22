@@ -1,4 +1,7 @@
 update_directory.py
-pinterest_publisher.py
+pinterest_login_playwright.py
+pinterest_publisher_playwright.py
+pinterest_state.json
 
 .env
+
