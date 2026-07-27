@@ -3,5 +3,17 @@ pinterest_login_playwright.py
 pinterest_publisher_playwright.py
 pinterest_state.json
 
+pinterest_data.json
+pinterest_publisher_json.py
+
+sp500_tracker.py
+requirements_sp500.txt
+
 .env
 
+images
+stock_images
+stock_csv
+
+note_1.txt
+note_2.txt
