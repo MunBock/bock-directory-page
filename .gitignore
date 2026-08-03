@@ -1,19 +1,35 @@
+# Environment
+.env
+
+# Read me
+README.md
+
+# Directory
+
 update_directory.py
+
+# Pinterest
+
 pinterest_login_playwright.py
 pinterest_publisher_playwright.py
 pinterest_state.json
-
 pinterest_data.json
 pinterest_publisher_json.py
+
+# Stock
 
 sp500_tracker.py
 requirements_sp500.txt
 
-.env
+# Keyword research 
+keyword_research.py
+keyword_research_*.json
+*_analysis.csv
+*_quick_wins.csv
+
+# Folders
 
 images
 stock_images
 stock_csv
-
-note_1.txt
-note_2.txt
+keyword_analysis
