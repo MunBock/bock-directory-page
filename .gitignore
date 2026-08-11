@@ -1,5 +1,6 @@
 # Environment
 .env
+.env.example
 
 # Read me
 README.md
@@ -33,3 +34,19 @@ images
 stock_images
 stock_csv
 keyword_analysis
+
+# IG
+
+instagram_fetcher.py
+
+# Reddit
+
+reddit_autoposter.py
+reddit_trend_fetcher.py
+posts.json
+
+# Twitter
+
+twitter_autoposter.py
+twitter_posts.json
+
