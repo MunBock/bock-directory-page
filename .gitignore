@@ -50,3 +50,18 @@ posts.json
 twitter_autoposter.py
 twitter_posts.json
 
+# LinkedIn
+
+linkedin_autoposter.py
+linkedin_posts.json
+
+# Facebook
+
+facebook_autoposter.py
+facebook_posts.json
+
+# Bluesky
+
+bluesky_autoposter.py
+bluesky_posts.json
+
